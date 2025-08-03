@@ -1,0 +1,130 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Making the Transition from IT Support to Cybersecurity",
+      "excerpt": "Discover how my background in IT support provides a solid foundation for cybersecurity. Learn about the skills that transfer and what additional knowledge is needed.",
+      "tags": ["cybersecurity", "career"],
+      "date": "2025-01-15",
+      "readTime": "5 min read",
+      "icon": "🔒",
+      "slug": "transition-it-support-cybersecurity",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Essential Network Troubleshooting Techniques",
+      "excerpt": "A comprehensive guide to diagnosing and resolving common network issues. From basic connectivity problems to complex routing issues.",
+      "tags": ["it-support", "networking"],
+      "date": "2025-01-08",
+      "readTime": "7 min read",
+      "icon": "🖥️",
+      "slug": "network-troubleshooting-techniques",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "Cloud Security Best Practices for Small Businesses",
+      "excerpt": "Essential security measures every organization should implement when moving to the cloud. Practical tips for Azure, AWS, and other cloud platforms.",
+      "tags": ["cloud", "cybersecurity"],
+      "date": "2024-12-28",
+      "readTime": "6 min read",
+      "icon": "☁️",
+      "slug": "cloud-security-best-practices",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Incident Response: First Steps When Security Breaches Occur",
+      "excerpt": "A step-by-step guide to handling security incidents effectively. Learn the critical first actions that can minimize damage and preserve evidence.",
+      "tags": ["cybersecurity", "it-support"],
+      "date": "2024-12-20",
+      "readTime": "8 min read",
+      "icon": "🛡️",
+      "slug": "incident-response-security-breaches",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Building Technical Skills Through Real-World IT Support",
+      "excerpt": "How hands-on IT support experience builds problem-solving skills and technical expertise. Lessons learned from years of troubleshooting and user support.",
+      "tags": ["career", "it-support"],
+      "date": "2024-12-12",
+      "readTime": "4 min read",
+      "icon": "📈",
+      "slug": "building-technical-skills-it-support",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Understanding Network Security Fundamentals",
+      "excerpt": "An introduction to network security concepts including firewalls, VPNs, and intrusion detection. Essential knowledge for anyone working in IT or cybersecurity.",
+      "tags": ["networking", "cybersecurity"],
+      "date": "2024-12-05",
+      "readTime": "9 min read",
+      "icon": "🌐",
+      "slug": "network-security-fundamentals",
+      "featured": true
+    },
+    {
+      "id": 7,
+      "title": "Home Lab Setup for Cybersecurity Learning",
+      "excerpt": "Step-by-step guide to setting up your own cybersecurity lab at home. Learn how to create a safe environment for practicing penetration testing and security analysis.",
+      "tags": ["cybersecurity", "career"],
+      "date": "2024-11-28",
+      "readTime": "10 min read",
+      "icon": "🏠",
+      "slug": "home-lab-cybersecurity-learning",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "title": "Common IT Support Scenarios and Security Implications",
+      "excerpt": "Real-world IT support scenarios and how they relate to cybersecurity. Understanding the security risks hidden in everyday support tasks.",
+      "tags": ["it-support", "cybersecurity"],
+      "date": "2024-11-15",
+      "readTime": "6 min read",
+      "icon": "🔍",
+      "slug": "it-support-security-implications",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "title": "CompTIA Security+ Study Guide: Key Areas to Focus On",
+      "excerpt": "A focused study approach for the CompTIA Security+ certification. Based on real experience and practical application of security concepts.",
+      "tags": ["cybersecurity", "career"],
+      "date": "2024-11-01",
+      "readTime": "8 min read",
+      "icon": "📚",
+      "slug": "comptia-security-plus-study-guide",
+      "featured": true
+    }
+  ],
+  "tags": [
+    {
+      "name": "cybersecurity",
+      "displayName": "Cybersecurity",
+      "color": "#dc2626"
+    },
+    {
+      "name": "it-support",
+      "displayName": "IT Support",
+      "color": "#2563eb"
+    },
+    {
+      "name": "cloud",
+      "displayName": "Cloud",
+      "color": "#0891b2"
+    },
+    {
+      "name": "networking",
+      "displayName": "Networking",
+      "color": "#7c3aed"
+    },
+    {
+      "name": "career",
+      "displayName": "Career",
+      "color": "#059669"
+    }
+  ]
+}
